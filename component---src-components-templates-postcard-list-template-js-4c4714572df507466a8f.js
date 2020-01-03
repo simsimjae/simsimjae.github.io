@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{oQmu:function(a,e,n){"use strict";n.r(e),n.d(e,"PostCardDatas",(function(){return o}));var t=n("q1tI"),r=n.n(t),s=n("Bl7J"),l=n("xaIn"),o="2663956740";e.default=function(a){var e=a.data,n=e.allMarkdownRemark.edges,t=e.allFile.edges;return r.a.createElement(s.a,null,r.a.createElement(l.a,{posts:n,images:t}))}}}]);
+//# sourceMappingURL=component---src-components-templates-postcard-list-template-js-4c4714572df507466a8f.js.map
